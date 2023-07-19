@@ -1,9 +1,11 @@
-# esx_GMW-Trucker
+# esx_trucker
 ---
+
+Credits: https://github.com/GermanWarthog
 
 ## Informationen:
 
-Der Trucker Job ist ein einfaches und vielseitiges Script, welches die Vielfältigkeit ziviler Jobs komplmentiert. Es bietet zahlreiche Konfigurationsoptionen die für jeden Server Individuell angepasst werden können und stellt für den Spieler ein angenehmes Spielerlebnis dar.
+Der Trucker Job ist ein einfaches und vielseitiges Script, welches die Vielfältigkeit ziviler Jobs komplementiert. Es bietet zahlreiche Konfigurationsoptionen die für jeden Server Individuell angepasst werden können und stellt für den Spieler ein angenehmes Spielerlebnis dar.
 
 ## Konfigurationsoptionen:
 
